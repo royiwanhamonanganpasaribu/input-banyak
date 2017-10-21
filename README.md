@@ -1,0 +1,2 @@
+# input-banyak
+inputan banyak
